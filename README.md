@@ -1,5 +1,7 @@
 ## Bem-vindo(as), ao meu cafofo da tecnologia!
 
+Me chamo Cauê, um jovem de 23 anos muito curioso e criativo.
+
 Aqui você vai encontrar fatos sobre mim, e muitos projetos, sinta à vontade.
 
 🔭 Atualmente, estou trabalhando como Aprendiz de TI.
