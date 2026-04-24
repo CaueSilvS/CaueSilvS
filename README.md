@@ -6,7 +6,7 @@ Aqui você vai encontrar fatos sobre mim, e muitos projetos, sinta à vontade.
 
 🔭 Atualmente, estou trabalhando como Aprendiz de TI.
 
-🌱 Estou aprendendo: PHP e JavaScript
+🌱 Estou aprendendo: Rust
 
 📫 Como me contatar: cauessilvasantos14@gmail.com
 
