@@ -32,7 +32,7 @@ Aqui estão algumas das ferramentas e linguagens que utilizo no meu dia a dia:
 ## 📫 Como me contatar
 
 - 📧 **E-mail:** [cauessilvasantos14@gmail.com](mailto:cauessilvasantos14@gmail.com)
-- 💼 **LinkedIn:** [Adicione o link do seu perfil aqui](#) *(opcional)*
+- 💼 **LinkedIn:** [www.linkedin.com/in/cauê-s-dos-santos-0b4516293/]
 - 😄 **Pronomes:** Ele/Dele
 
 ---
